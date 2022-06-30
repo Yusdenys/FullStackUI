@@ -6,3 +6,4 @@ export interface Employee {
     salary: number;
     department: string;
 }
+
